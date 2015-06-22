@@ -1,5 +1,0 @@
-What I hope to get out of class:
-
--better understanding of OpenRefine
--intro to GIS
--more knowledge of STATA commands
